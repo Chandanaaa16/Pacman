@@ -20,13 +20,18 @@ g++ pacman.cpp -o pacman -std=c++11 -Wall
 ⚙️ Compatibility:
 
 Uses GCC, MinGW, Clang (no <conio.h> required)
+
 Windows: Uses <windows.h>
+
 Linux/macOS: Uses termios for input handling
 
 
 🔥 Future Enhancements:
 
 Smarter ghost AI
+
 Power-ups & multiple levels
+
 Better console UI & animations
+
 Happy coding! 🎮🚀
